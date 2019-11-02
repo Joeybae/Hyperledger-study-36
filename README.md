@@ -14,7 +14,7 @@
 
 2. 미들웨어 만들기
 
-        # npm install compression —save
+        # npm install compression --save
 
 main.js
 
